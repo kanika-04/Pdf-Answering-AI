@@ -85,7 +85,7 @@ The "PDF Question Answering AI" project successfully showcases the potential of 
 
 1. Clone this repository:
     ```bash
-   https://github.com/kanika-04/Pdf-Answering-AI
+   git clone https://github.com/kanika-04/Pdf-Answering-AI
     ```
 2. Navigate to the project directory:
     ```bash
