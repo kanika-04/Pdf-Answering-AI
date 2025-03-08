@@ -85,11 +85,11 @@ The "PDF Question Answering AI" project successfully showcases the potential of 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/kkboss1234/Aries-pdf-qa.git
+   https://github.com/kanika-04/Pdf-Answering-AI
     ```
 2. Navigate to the project directory:
     ```bash
-    cd ./Aries-pdf-qa/
+    cd ./Pdf-Answering-AI/
     next line:
     cd ./app/
     ```
